@@ -1,4 +1,4 @@
-# 📊 Sales & Marketing Funnel Power BI Dashboard- For Campaign Performance & Conversion Analysis
+# 📊 Sales & Marketing Funnel Analysis-  Power BI Dashboard- For Campaign Performance & Conversion Analysis
 
 
 
@@ -56,5 +56,6 @@ To provide marketing stakeholders with clear visibility into the customer journe
   <tr>
     <td><img src="Sales Marketing Funnel Dashboard Main.png" width="500"></td>
     <td><img src="Campaign Filter.png" width="500"></td>
+    <td><img src="Data Point Tool Tip For Quick Analysis.png" width="500"></td>
   </tr>
 
