@@ -50,10 +50,10 @@ To provide marketing stakeholders with clear visibility into the customer journe
 <table>
   <tr>
     <td><img src="Sales Marketing Funnel Dashboard Main" width="500"></td>
-    <td><img src="Filtered By Month.png" width="500"></td>
+    <td><img src="Data Point Tool Tip For Quick Analysis" width="500"></td>
   </tr>
   <tr>
-    <td><img src="Filtered By Expense Category.png" width="500"></td>
-    <td><img src="Raw Data Before Cleaning.png" width="500"></td>
+    <td><img src="Campaign Filter.png" width="500"></td>
+
   </tr>
 </table>
