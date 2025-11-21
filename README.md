@@ -40,3 +40,20 @@ To provide marketing stakeholders with clear visibility into the customer journe
 - Sync Slicers & Reset Filters
 - Conditional Formatting for Leaderboard
 - Dashboard UX design principles (alignment, grouping, storytelling)
+
+
+**🔗 Link To Project Files (includes Power Bi Pbix file):**  
+[📂 View Project Repository](https://github.com/UmairBaqar/Sales-Marketing-Funnel)
+
+<h3>📷 Project Preview</h3>
+
+<table>
+  <tr>
+    <td><img src="Sales Marketing Funnel Dashboard Main" width="500"></td>
+    <td><img src="Filtered By Month.png" width="500"></td>
+  </tr>
+  <tr>
+    <td><img src="Filtered By Expense Category.png" width="500"></td>
+    <td><img src="Raw Data Before Cleaning.png" width="500"></td>
+  </tr>
+</table>
