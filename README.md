@@ -1,13 +1,14 @@
-# Sales-Marketing-Funnel
-📊 Sales & Marketing Funnel Dashboard
-Tool: Power BI  Focus: Campaign Performance & Conversion Analysis
+# 📊 Sales & Marketing Funnel Power BI Dashboard- For Campaign Performance & Conversion Analysis
 
-🎯 Project Goal
+
+
+🎯 **Project Goal**
 To provide marketing stakeholders with clear visibility into the customer journey across funnel stages, highlight campaign effectiveness, and measure overall conversion efficiency.
 
 
-🧱 Solution Design
-- Sidebar Filters: Website‑style slicer panel (Campaign, Channel, Month, Stage) with reset button.
+
+🧱 **Solution Design**
+- Sidebar Filters: Website‑style slicer panel (Campaign, Channel,).
 - Executive Summary: KPI cards for Leads, Conversions, Conversion Rate, and Revenue, paired with a Smart Narrative that auto‑updates with filters.
 - Core Analysis:
 - Funnel Chart showing absolute lead counts per stage (no misleading %).
@@ -16,28 +17,33 @@ To provide marketing stakeholders with clear visibility into the customer journe
 - Trend Analysis: Line chart showing leads and conversions over time for seasonality and campaign impact.
 
 
-🧠 Key Insights
+
+🧠 **Key Insights**
 - 730 leads were tracked through the funnel to the Purchase stage.
 - Total conversions reached 3,660, reflecting additional direct or repeat conversions outside the funnel path.
 - Smart Narrative explains this distinction automatically, reducing stakeholder confusion.
 
 
-🎨 Design Highlights
+
+🎨 **Design Highlights**
 - Clean, modular layout with consistent color palette.
 - Transparent slicer backgrounds for a professional sidebar look.
 - Data labels on funnel bars show raw counts for clarity.
 - Smart Narrative provides contextual storytelling alongside visuals.
 
 
-📈 Impact
+
+📈 **Impact**
 - Simplified funnel visualization by removing conflicting % metrics.
 - Enabled stakeholders to identify weak funnel stages and top‑performing campaigns.
 - Delivered a decision‑ready dashboard that balances storytelling, analysis, and trend monitoring.
 
-🛠 Techniques Used
+
+🛠 **Tools and Techniques Used**
+- Power Query used to clean messy data (xls file included)
 - Power BI Funnel Chart (absolute counts)
 - KPI Cards & Smart Narrative
-- Sync Slicers & Reset Filters
+- Custom Date Table Created within Power BI to enable Trend Analyis
 - Conditional Formatting for Leaderboard
 - Dashboard UX design principles (alignment, grouping, storytelling)
 
@@ -47,13 +53,8 @@ To provide marketing stakeholders with clear visibility into the customer journe
 
 <h3>📷 Project Preview</h3>
 
-<table>
   <tr>
-    <td><img src="Sales Marketing Funnel Dashboard Main" width="500"></td>
-    <td><img src="Data Point Tool Tip For Quick Analysis" width="500"></td>
-  </tr>
-  <tr>
+    <td><img src="Sales Marketing Funnel Dashboard Main.png" width="500"></td>
     <td><img src="Campaign Filter.png" width="500"></td>
-
   </tr>
-</table>
+
