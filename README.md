@@ -8,7 +8,7 @@ To provide marketing stakeholders with clear visibility into the customer journe
 
 
 🧱 **Solution Design**
-- Sidebar Filters: Website‑style slicer panel (Campaign, Channel,)
+- Sidebar Filters: Website‑style slicer panel (Campaign, Channel)
 - Executive Summary: KPI cards for Leads, Conversions, Conversion Rate, and Revenue, paired with a Smart Narrative that auto‑updates with filters.
 - Core Analysis:
 - Funnel Chart showing absolute lead counts per stage (no misleading %).
